@@ -19,7 +19,7 @@
                 border:3px solid #8F3501;
                 border-collapse:collapse;
                 font-family: Verdana;
-                font-size: 30px;
+                font-size: 22px;
             }
 
             table{
@@ -27,13 +27,13 @@
             }
 
             th, td {
-                padding: 10px;
+                padding: 6px;
             }
 
             th {
                 font-weight: normal;
                 text-align: center;
-                background-color: #FFF8C1;
+                background-color: #DEAF51;
             }
 
             td{
